@@ -24,6 +24,7 @@ public class Users {
     private String middle_name;
     private String username;
     private String email;
+
     private String gender;
 
     public Users() {
